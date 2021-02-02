@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Project title and description
+Youtube video search, an app using YT API, displays and lets user play most relevant videos and their descriptions. Displays list of few similar vidoes on right hand side.  
+# Build status
+Finished.
+## Tech/framework used
+React, Youtube API, axios, SemanticUI.
+## How to use
+Search for videos using search bar and press Enter. App will display and let user play a video fetched from YT API, display it's description and list few similar videos.
+API key may be set to localhost:300 for security reasons.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
